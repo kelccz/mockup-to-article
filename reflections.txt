@@ -11,8 +11,8 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
-Hi!
+
 * I think I've never used <strike> before
-* It seams easy
+* Yes 
 * Nothing yet
-* I start using Atom instead of Visual Studio IDE. And I also did a research on internet for the tags I didn't remember.
+* I started using Atom instead of Visual Studio IDE. And I also did a research on the internet for the tags I didn't remember.
